@@ -60,7 +60,7 @@
 	},
 	"engines": {
 		"node": ">=14.0.0",
-		"npm": "Please use yarn and not npm"
+		"npm": "please_use_yarn_instead"
 	},
 	"dependencies": {
 		"@cliqz/adblocker-electron": "^1.22.6",
